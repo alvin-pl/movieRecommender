@@ -1,0 +1,3 @@
+# this ist the python packages your project needs
+ flask 
+ flask-cors
